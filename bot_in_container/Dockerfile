@@ -1,4 +1,4 @@
-FROM python:latest
+FROM python:buster
 
 COPY . /bot_in_container
 
