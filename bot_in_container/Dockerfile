@@ -1,4 +1,4 @@
-FROM python:buster
+FROM python:3.9.15-buster
 
 COPY . /bot_in_container
 
